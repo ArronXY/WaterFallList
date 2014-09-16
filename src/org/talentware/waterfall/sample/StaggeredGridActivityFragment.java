@@ -10,7 +10,8 @@ import android.widget.AbsListView;
 import android.widget.AdapterView;
 import android.widget.TextView;
 import android.widget.Toast;
-import com.etsy.android.grid.StaggeredGridView;
+import org.talentware.waterfall.R;
+import org.talentware.waterfall.library.StaggeredGridView;
 
 import java.util.ArrayList;
 

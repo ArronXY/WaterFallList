@@ -13,8 +13,8 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.Toast;
-
-import com.etsy.android.grid.util.DynamicHeightTextView;
+import org.talentware.waterfall.R;
+import org.talentware.waterfall.library.util.DynamicHeightTextView;
 
 /***
  * ADAPTER

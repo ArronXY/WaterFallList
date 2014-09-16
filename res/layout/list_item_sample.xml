@@ -7,7 +7,7 @@
     android:layout_height="wrap_content"
     android:descendantFocusability="blocksDescendants">
 
-    <com.etsy.android.grid.util.DynamicHeightTextView
+    <org.talentware.waterfall.library.util.DynamicHeightTextView
         android:id="@+id/txt_line1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

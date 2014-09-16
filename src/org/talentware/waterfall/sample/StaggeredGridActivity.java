@@ -13,8 +13,8 @@ import android.widget.AbsListView;
 import android.widget.AdapterView;
 import android.widget.TextView;
 import android.widget.Toast;
-
-import com.etsy.android.grid.StaggeredGridView;
+import org.talentware.waterfall.R;
+import org.talentware.waterfall.library.StaggeredGridView;
 
 public class StaggeredGridActivity extends Activity implements AbsListView.OnScrollListener, AbsListView.OnItemClickListener, AdapterView.OnItemLongClickListener {
 
